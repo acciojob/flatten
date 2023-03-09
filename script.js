@@ -3,4 +3,4 @@ function flatten(value) {
  
 }
 
-module.exports=flatten
+module.exports=flatten;
