@@ -1,4 +1,4 @@
-# Favorite Holiday 
+# Flatten
 
 ### Write a flatten function that takes in a value and returns a flattened version of that value. For the purpose of this problem, a flattened value is defined as follows:
 
